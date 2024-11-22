@@ -21,8 +21,6 @@ def is_square(number):
         return True
     else:
         return False
-    
-def is_multiple(number)
 
 def sub_list_of_numbers(list_of_numbers, validation_function, validation_default_value):
     list_of_a_sub_set = []
