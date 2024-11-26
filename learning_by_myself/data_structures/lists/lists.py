@@ -7,7 +7,7 @@
 # 1. Creating a python list
 
 # 1.1 Using list constructor
-my_list1 = list((1, 2, 3))
+my_list1 = list((1, 2, 3))  
 print(my_list1)
 # Output [1, 2, 3]
 
